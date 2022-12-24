@@ -1,0 +1,2 @@
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\21_3_implementation_math_vector\Debug\21_3_implementation_math_vector.exe
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\21_3_implementation_math_vector\Debug\21_3_implementation_math_vector.pdb
